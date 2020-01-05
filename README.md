@@ -1,6 +1,6 @@
 # GCI-STL-C++
  
-## What are STL in C++
+## What are STL in C++?
 
 The Standard Template Library (STL) is a set of C++ template classes to provide common programming data structures and functions
 such as lists, stacks, maps etc. It is a library of container classes, algorithms, and iterators. A working knowledge of template
